@@ -1,0 +1,16 @@
+{
+  "eslint.format.enable": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "**/.git": true,
+    "**/node_modules": true
+  },
+  "editor.rulers": [80],
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": false
+}

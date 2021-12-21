@@ -1,0 +1,10 @@
+{
+  "AIS_DEVICE": "/dev/vda",
+  "AIS_ENCRYPTION_KEY": "a",
+  "AIS_HOSTNAME": "arch-fiveawe",
+  "AIS_USER": "fiveawe",
+  "AIS_PASSWORD": "a",
+  "AIS_ADDITIONAL_PACKAGES": "amd-ucode",
+  "AIS_DE": "GNOME",
+  "AIS_GPU": "qxl"
+}
